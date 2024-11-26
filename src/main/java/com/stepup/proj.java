@@ -11,6 +11,5 @@ public class proj {
         System.out.println("1");
         System.out.println("0");
         System.out.println("55");
-        System.out.println("18591");
 }
 }
