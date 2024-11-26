@@ -7,4 +7,10 @@ public class proj {
         System.out.println("112211");
         System.out.println("18591");
     }
+    public static void doSomething () {
+        System.out.println("1");
+        System.out.println("0");
+        System.out.println("55");
+        System.out.println("18591");
+}
 }
