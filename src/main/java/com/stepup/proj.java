@@ -6,8 +6,12 @@ public class proj {
         System.out.println("111111");
         System.out.println("1");
         System.out.println("0");
-        System.out.println("55");
+        doSomithing();
+        System.out.println("--");
     }
-
+    public static void doSomithing () {
+        System.out.println("Hello World");
+    }
 }
+
 
