@@ -5,5 +5,6 @@ public class proj {
         System.out.println("Hello World");
         System.out.println("111111");
         System.out.println("112211");
+        System.out.println("18591");
     }
 }
